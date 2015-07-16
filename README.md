@@ -1,6 +1,8 @@
 # hipcow
 Ruby gem: cowsay for Hipchat
 
+![Be that guy on Hipchat...](/screenshot.png)
+
 ## Installation
 
 ```
